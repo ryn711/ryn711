@@ -1,4 +1,5 @@
-### Hi there 👋
+# Aaryan Dixit 👋
+## Aspiring Data Analyst
 
 <!--
 **ryn711/ryn711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
